@@ -1,0 +1,18 @@
+Temat projektu: Wypożyczalnia sprzętu zimowego
+
+1.Okno logowania
+pole logowania
+2.Okno rejestracji
+3.Okno wyboru sprzętu zimowego
+wybór rozmiaru 
+wybór sprzętu
+dostępne zestawy
+
+4. Okno tworzenia rezerwacji
+
+Technicznie:
+1.Baza danych
+Tabel itp
+2.Operacja na bazie
+Dodawanie i usuwanie rekordów
+Pobieranie rekordów
